@@ -1,2 +1,5 @@
-[![Build Status](https://travis-ci.org/seekerk/gtest.svg?branch=master)](https://travis-ci.org/seekerk/gtest)
-[![Coverage Status](https://coveralls.io/repos/seekerk/gtest/badge.svg?branch=master)](https://coveralls.io/github/seekerk/gtest?branch=master)
+[![Build Status](https://travis-ci.com/evolkova01/testing3.svg?branch=master)](https://travis-ci.com/evolkova01/testing3)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=evolkova01_testing3&metric=alert_status)](https://sonarcloud.io/dashboard?id=evolkova01_testing3)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=evolkova01_testing3&metric=bugs)](https://sonarcloud.io/dashboard?id=evolkova01_testing3)
+[![Coverage Status](https://coveralls.io/repos/github/evolkova01/testing3/badge.svg?branch=master)](https://coveralls.io/github/evolkova01/testing3?branch=master)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=evolkova01_testing3&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=evolkova01_testing3)
